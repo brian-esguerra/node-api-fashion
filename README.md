@@ -2,6 +2,8 @@
 
 Api online: [https://api-node-fashion.herokuapp.com/](api-node-fashion)
 
+Postman collection: [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/cae99eaf4a28b2367c4c)
+
 #### Server
 * Heroku > Hosting
 * Mlab + Atlas > Cloud DB
